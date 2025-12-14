@@ -51,6 +51,6 @@ npx @kintone/cli record import \
   --api-token "$NORMAL_API_TOKEN" \
   --file-path "$FILE_GUEST_TO_NORMAL" \
   --encoding utf8 \
-  --update-key "会社名"
+  --update-key "文字列__1行__6"
 
 echo "✅ 双方向同期完了（会社名をキーに更新モード）"
