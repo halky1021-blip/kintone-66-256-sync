@@ -53,4 +53,4 @@ npx @kintone/cli record import \
   --encoding utf8 \
   --update-key "文字列__1行__6"
 
-echo "✅ 双方向同期完了（会社名をキーに更新モード）"
+echo "✅ 双方向同期完了（文字列__1行__6をキーに更新モード）"
